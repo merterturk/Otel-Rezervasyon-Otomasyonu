@@ -1,5 +1,4 @@
 # Otel-Rezervasyon-Otomasyonu
-Yazılım Mühendisliği dersi için geliştirmiş olduğum proje
 ### Projenin Amacı
 Otel otomasyonu, birden fazla otelin odalarının müşteri takibinin yapılabilmesini amaçlamaktadır. Oteller birer kullanıcı olarak, sistem yöneticisi tarafından tanımlanabilecektir. Her otel, kendi oda tanımlarını yapabilecektir. Oteller, müşterilerini çevirim dışı da tanımlayabileceği göz önünde bulundurularak, otellere oda durumlarını günleme izni verilmelidir. Sisteme üye olan normal kullanıcılar ise, otel ve oda tercihleri yaparak, odalara rezervasyon yaptırabilecektir.
 ## Root
