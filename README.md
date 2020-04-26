@@ -10,3 +10,5 @@ Yönetici olduğu otelinin oda ve personel ekleme,güncelleme,silme,listeme  iş
 Çalıştığı otelin Rezervasyon güncelle,listeme,iptal etme işlemlerini yapabilir,aynı zamanda müşterinin ödemelerini görüntüleyebilir
 ## Müşteri
 Sisteme kayıt olabilir,Giriş yaptıktan sonra Rezervasyon yapıp ödemesini tamamlayabilir,Yaptığı tüm rezervasyonları ve ödemeleri görüntüleyebilir ve sistemdeki tüm otelleri şehire ve otelin yıldız sayısına göre arama yapabilir.
+#Giriş Ekranı
+![Anasayfa](https://user-images.githubusercontent.com/39930435/80310812-41d59b80-87e5-11ea-8d82-63e7f705e942.png)
