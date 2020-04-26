@@ -55,4 +55,4 @@ Sisteme kayıt olabilir,Giriş yaptıktan sonra Rezervasyon yapıp ödemesini ta
 ### Müşteri Otel Listesi
 ![OtelListesi](https://user-images.githubusercontent.com/39930435/80310878-87926400-87e5-11ea-99c2-4e97d33eced8.png)
 ### Veritabanı
-![Veritabanı](https://user-images.githubusercontent.com/39930435/80310866-85300a00-87e5-11ea-8562-0da6dcec0b86.png)
+![Veritabanı](https://user-images.githubusercontent.com/39930435/80311390-1607e500-87e8-11ea-9eeb-9ff65502e2e5.png)
